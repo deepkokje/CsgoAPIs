@@ -6,7 +6,7 @@ that allows you to manage and retrieve data related to Counter-Strike: Global Of
 As a developer seeking to enhance my Node.js skills, I had an opportunity to gain hands-on experience with 
 popular tools and technologies such as PostgreSQL, Sequelize, and Express.js.
 
-##Learnings
+## Learnings
 
 1. Understand the fundamentals of Node.js and its event-driven, non-blocking I/O architecture.
 2. Learn how to use the Express.js framework to create robust and scalable web applications.
